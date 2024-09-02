@@ -46,7 +46,7 @@ public class AppConfig {
 						
 						"http://localhost:3000", 
 						"http://localhost:4000",
-						"https://whatsapp-clone-ashy-delta.vercel.app"
+						"https://whatsapp-clone-git-master-sankhajit3s-projects.vercel.app"
 						));
 				//cfg.setAllowedMethods(Arrays.asList("GET", "POST","DELETE","PUT"));
 				cfg.setAllowedMethods(Collections.singletonList("*"));
